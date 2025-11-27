@@ -8,7 +8,7 @@ int main() {
     if (a == 1) {
         std::cout << "You are REALLI LexaOverhype!" << std::endl;
     } else {
-        std::cout << "Fuk you BLT!" << std::endl;
+        std::cout << "Get out!" << std::endl;
     }
     return 0;
 }
